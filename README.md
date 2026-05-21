@@ -1,4 +1,4 @@
-# Research-Paper-Copilot
+# Deep Draft
 
 > AI-powered backend that discovers, analyzes, and summarizes academic papers using a multi-agent pipeline built on Google Gemini and the arXiv API.
 
